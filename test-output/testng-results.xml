@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="505" started-at="2018-07-18T13:31:42Z" finished-at="2018-07-18T13:31:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="505" started-at="2018-07-18T13:31:42Z" finished-at="2018-07-18T13:31:42Z">
+      <class name="dbconnectionTest.MyDBTest">
+        <test-method status="PASS" signature="dbTest()[pri:0, instance:dbconnectionTest.MyDBTest@26653222]" name="dbTest" duration-ms="432" started-at="2018-07-18T19:01:42Z" finished-at="2018-07-18T19:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbTest -->
+      </class> <!-- dbconnectionTest.MyDBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
